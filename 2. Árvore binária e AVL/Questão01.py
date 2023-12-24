@@ -1,1 +1,1 @@
-print("Questão em desenvolviemnto...")
+print("Questão em desenvolviemnto......")
