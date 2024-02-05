@@ -70,4 +70,6 @@ def entradaLinha(): #entrada
     return entrada
 entrada = entradaLinha()
 output = formar_grupos(entrada)
-print(output)
+print(output) 
+
+
